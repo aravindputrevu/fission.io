@@ -238,3 +238,8 @@ name = "Slack"
 pre = "<i class='fab fa-slack'></i>"
 url = "/slack"
 weight = 14
+[[menu.main]]
+name = "Enterprise"
+pre = "<i class='fas fa-cogs'></i>"
+url = "/enterprise"
+weight = 15
