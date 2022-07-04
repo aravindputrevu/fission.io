@@ -1,5 +1,5 @@
 ---
-title: "Offline On-Premise"
+title: "Offline On-Premise (Air Gapped Mode)"
 weight: 10
 description: >
   Installation guide for offline on-premise.  
